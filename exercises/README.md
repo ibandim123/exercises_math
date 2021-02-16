@@ -8,3 +8,5 @@ Arithmetic average ( x )</li>
   <li></li>
   <li></li>
 </ul>
+<h2>Page View</h2>
+<img src="Apresentação.png">
