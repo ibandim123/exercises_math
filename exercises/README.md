@@ -3,7 +3,7 @@
 <ul>
   <li>
 Arithmetic average ( x )</li>
-  <li></li>
+  <li>harmonic mean ( x )</li>
   <li></li>
   <li></li>
   <li></li>
