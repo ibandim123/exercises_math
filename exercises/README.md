@@ -1,5 +1,7 @@
 # Exercises List with Javascript 
 
+obs:*For view, please charge js files in html index
+
 <ul>
   <li>
 Arithmetic average ( x )</li>
