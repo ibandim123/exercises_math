@@ -24,7 +24,7 @@ exercises done:
 <li>
 Harmonic Mean ( x )</li>
 <li>Conditional SE ( x )</li>
-<li></li>
+<li>Circumference area ( x )</li>
 <li></li>
 
 <p>
