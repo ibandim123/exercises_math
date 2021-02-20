@@ -34,7 +34,7 @@ Harmonic Mean ( x )</li>
 <h2 id="tecnologias">Technologies</h2>
 
 - HTML
-- CSS
+- CSS ( Cyberpunk Design )
 - JavaScript
 
 <h2 id="licença">License</h2>
