@@ -25,6 +25,7 @@ exercises done:
 Harmonic Mean ( x )</li>
 <li>Conditional SE ( x )</li>
 <li>Circumference area ( x )</li>
+<li>Array ( x )</li>
 <li></li>
 
 <p>
