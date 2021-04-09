@@ -29,7 +29,7 @@ Harmonic Mean ( x )</li>
 <li></li>
 
 <p>
- About the project
+
 </p>
 
 <h2 id="tecnologias">Technologies</h2>
