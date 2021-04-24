@@ -40,6 +40,4 @@ Harmonic Mean ( x )</li>
 
 <h2 id="licença">License</h2>
 
-<p>
-  See the license here <a href="./LICENSE">LICENSE</a> for more details
-</p>
+
