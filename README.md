@@ -38,6 +38,6 @@ Harmonic Mean ( x )</li>
 - CSS ( Cyberpunk Design )
 - JavaScript
 
-<h2 id="licença">License</h2>
+
 
 
