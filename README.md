@@ -27,7 +27,7 @@ Harmonic Mean ( x )</li>
 <li>Conditional SE ( x )</li>
 <li>Circumference area ( x )</li>
 <li>Array ( x )</li>
-<li>Vector with a certain numbers ( )</li>
+<li>Vector with a certain numbers ( x )</li>
 <li>Array with Programing Language C ( )</li>
 <li>Register worker and your wage ( )</li>
 <li>Program with data and save document in csv format ( )</li>
