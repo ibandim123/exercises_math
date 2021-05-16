@@ -29,7 +29,7 @@ Harmonic Mean ( x )</li>
 <li>Array ( x )</li>
 <li>Vector with a certain numbers ( x )</li>
 <li>Array with Programing Language C ( )</li>
-<li>Register worker and your wage ( )</li>
+<li>Register worker and your wage ( x )</li>
 <li>Program with data and save document in csv format ( )</li>
 
 <p>
