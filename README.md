@@ -46,8 +46,8 @@ Harmonic Mean ( x )</li>
 
 <h2>Documents, Explanation of code ( in Portuguese )</h2>
 
-[ATIVIDADE PRATICA - I.pdf](https://github.com/ibandim123/exercises_math/files/6643090/ATIVIDADE.PRATICA.-.I.pdf)
-[ATIVIDADE PRATICA - II.pdf](https://github.com/ibandim123/exercises_math/files/6643093/ATIVIDADE.PRATICA.-.II.pdf)
-[ATIVIDADE PRATICA IV.pdf](https://github.com/ibandim123/exercises_math/files/6643095/ATIVIDADE.PRATICA.IV.pdf)
+[ATIVIDADE PRATICA - I.pdf](https://github.com/ibandim123/exercises_math/files/6643090/ATIVIDADE.PRATICA.-.I.pdf) <br>
+[ATIVIDADE PRATICA - II.pdf](https://github.com/ibandim123/exercises_math/files/6643093/ATIVIDADE.PRATICA.-.II.pdf) <br>
+[ATIVIDADE PRATICA IV.pdf](https://github.com/ibandim123/exercises_math/files/6643095/ATIVIDADE.PRATICA.IV.pdf) <br>
 
 
