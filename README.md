@@ -28,9 +28,9 @@ Harmonic Mean ( x )</li>
 <li>Circumference area ( x )</li>
 <li>Array ( x )</li>
 <li>Vector with a certain numbers ( x )</li>
-<li>Array with Programing Language C ( )</li>
+<li>Array with Programing Language C ( x )</li>
 <li>Register worker and your wage ( x )</li>
-<li>Program with data and save document in csv format ( )</li>
+
 
 <p>
   Obs: *Programs i have made with C no have design layout, they worked in terminal. 
@@ -44,5 +44,10 @@ Harmonic Mean ( x )</li>
 - Programing Language: C
 
 
+<h2>Documents, Explanation of code ( in Portuguese )</h2>
+
+[ATIVIDADE PRATICA - I.pdf](https://github.com/ibandim123/exercises_math/files/6643090/ATIVIDADE.PRATICA.-.I.pdf)
+[ATIVIDADE PRATICA - II.pdf](https://github.com/ibandim123/exercises_math/files/6643093/ATIVIDADE.PRATICA.-.II.pdf)
+[ATIVIDADE PRATICA IV.pdf](https://github.com/ibandim123/exercises_math/files/6643095/ATIVIDADE.PRATICA.IV.pdf)
 
 
